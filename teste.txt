@@ -1,5 +1,4 @@
 text1
-:wq
 sssss
 sssss
 Muudanca1
